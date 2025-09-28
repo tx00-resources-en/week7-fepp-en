@@ -24,8 +24,4 @@ app.use("/api/users", userRouter);
 app.use(unknownEndpoint);
 app.use(errorHandler);
 
-const port = process.env.PORT || 4000;
-// Start the server
-app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
-});
+module.exports = app;
