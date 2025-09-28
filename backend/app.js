@@ -10,7 +10,7 @@ const cors = require("cors");
 app.use(cors())
 app.use(express.json());
 
-connectDB();
+connectDB(); 
 
 // Use the jobRouter for all "/jobs" routes
 app.use("/api/jobs", jobRouter);
