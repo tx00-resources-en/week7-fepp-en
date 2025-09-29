@@ -2,7 +2,7 @@
 
 This repository walks you through building a **full‑stack application** for managing jobs data. Each branch introduces new functionality, starting from a basic setup and gradually adding CRUD operations, routing, authentication, and route protection.
 
-Main entry: [week7-fepp-en](https://github.com/tx00-resources-en/week7-fepp-en)
+<!-- Main entry: [week7-fepp-en](https://github.com/tx00-resources-en/week7-fepp-en) -->
 
 ---
 
